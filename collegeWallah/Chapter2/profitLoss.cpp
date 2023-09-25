@@ -1,3 +1,6 @@
+//If cost price and selling price of an item is input through the keyboard, write a program to determine the whether 
+the seller has made profit or loss or no profit no loss . Also determine how much profit or loss he incurred. 
+
 #include<iostream>
 using namespace std;
 int main(){
